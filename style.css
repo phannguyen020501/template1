@@ -1,0 +1,92 @@
+body{
+        text-decoration: none;
+        font-family: sans-serif;
+        background-image:url("./bg-masthead.jpg");
+        background-attachment: fixed;
+        background-position: center;
+        padding:0;
+        box-sizing: border-box;
+      }
+      .container0{
+        background:;
+    }
+    .container1{
+      height: 600px;
+    }
+        .container1 .overlay{
+        background: rgb(54,64,64);
+        background: linear-gradient(0deg, rgba(54,64,64,1) 0%, rgba(73,81,91,0.3) 33%, rgba(93,99,119,0.3) 100%);
+        padding: 5rem 3rem;
+        height: 100%;
+        width: 100%;
+       }
+        .container1 .overlay .row{
+          margin :2rem ;
+        }
+        .container1 .overlay .row .btn{
+          background-color: #F4623A;
+          border-radius: 50px;
+          height: 50px;
+          width: 220px;
+        }
+        .container1 .overlay .row .btn:hover{
+          background-color: #F3562B;
+        }
+
+
+
+        .container2{
+          background-color: #F4623A;
+          padding: 5rem 3rem;
+          height: 
+        }
+        .container2 .row {
+          margin: 1rem;
+        }
+        .container2 .row .btn{
+          color: black;
+          background-color: white;
+          border-radius: 50px;
+          height: 50px;
+          width: 180px;
+        }
+        .container2 .row .btn:hover{
+          background-color: #DDD;
+        }
+        .container3{
+          background: white;
+          font-size: 1.3rem;
+          color: black;
+          text-transform: uppercase;
+        }
+        .container3 .row{
+          padding: 2rem;
+        }
+        .container3 .row1{
+          padding-top: 4rem;
+        }
+        .container3 .row .row {
+          margin:40px;
+        }
+        .container3 .row .row-lg-3{
+          margin:20px;
+        }
+        .fas{
+          color: #F4623A;
+        }
+
+
+        .container4{
+          background-color: #EEE;
+          color: black;
+          text-transform: uppercase;
+        }
+        .container4 .row{
+          padding: 2rem;
+        }
+       
+        .container5{
+          background-color: #DDD;
+          height: 100px;
+          padding-top: 42px;
+        }
